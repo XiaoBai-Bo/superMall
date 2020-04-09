@@ -113,6 +113,5 @@
 	9.Promise mapActions的映射关系mapState mapGetters
 	10.Toast的封装	
 	
-**重要**
+## 重要
 	学会使用插件式封装组件的方式
-	1)
