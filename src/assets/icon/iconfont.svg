@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="kaishi" unicode="&#59229;" d="M580.032 352H96a32 32 0 0 0 0 64h484.032a128.064 128.064 0 0 0 247.936 0H928a32 32 0 0 0 0-64h-100.032a128.064 128.064 0 0 0-247.936 0zM704 320a64 64 0 1 1 0 128 64 64 0 0 1 0-128z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="jieshu" unicode="&#59230;" d="M196.032 352H96a32 32 0 0 0 0 64h100.032a128.064 128.064 0 0 0 247.936 0H928a32 32 0 0 0 0-64H443.968a128.064 128.064 0 0 0-247.936 0zM320 320a64 64 0 1 1 0 128 64 64 0 0 1 0-128z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
